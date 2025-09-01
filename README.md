@@ -1,5 +1,4 @@
-# Calculator.py
-# Simple Calculator in Python
+# Simple Calculator using Python
 
 def add(x, y):
     return x + y
